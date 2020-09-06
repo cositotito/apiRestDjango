@@ -49,6 +49,8 @@ python manage.py migrate
 python manage.py createsuperuser --email admin@example.com --username admin
 ```
 
+<h1> Despúes de haber pegado los codigos de Views.py y Serializers.py </h1>
+
 
 #Cuidado 1
 
