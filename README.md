@@ -4,6 +4,8 @@ https://www.django-rest-framework.org/tutorial/quickstart/
 
 # Create the project directory
 mkdir tutorial
+
+# Go folder
 cd tutorial
 
 # Create a virtual environment to isolate our package dependencies locally
