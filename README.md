@@ -15,7 +15,7 @@ pip install django
 pip install djangorestframework
 
 # Set up a new project with a single application
-django-admin startproject tutorial .  # Note the trailing '.' character
+django-admin startproject tutorial  .# Note the trailing '.' character
 cd tutorial
 django-admin startapp quickstart
 cd ..
