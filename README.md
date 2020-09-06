@@ -15,8 +15,10 @@ source env\Scripts\activate
 # - On linux use
 source env/bin/activate 
 
-# Install Django and Django REST framework into the virtual environment
+# Install Django into the virtual environment
 pip install django
+
+# Install Django REST framework into the virtual environment
 pip install djangorestframework
 
 # Set up a new project with a single application
