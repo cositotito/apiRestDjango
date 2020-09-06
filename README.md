@@ -1,6 +1,7 @@
 # apiRestDjango python 3.8.2
 https://www.django-rest-framework.org/tutorial/quickstart/
 
+<h1> Pasos para hacer una api rest con Python-Django</h1>
 
 # Create the project directory
 ```sh
@@ -51,25 +52,25 @@ python manage.py createsuperuser --email admin@example.com --username admin
 
 #Cuidado 1
 
-- encuentras linea de codigo en la pagina oficial de, https://www.django-rest-framework.org/tutorial/quickstart/
-- una Linea de codigo que esta mal en Archivo 'Views.py' CUANDO ya este el codigo pegado en tu script aparecera esto:
+- Encuentras linea de codigo en la pagina oficial de, https://www.django-rest-framework.org/tutorial/quickstart/
+- Linea de codigo que esta mal en Archivo 'Views.py' CUANDO ya este el codigo pegado en tu script aparecera esto:
 ```sh
 from tutorial.quickstart.serializers import UserSerializer, GroupSerializer
 ```
 
-- Archivo views cambialo por la correcta que es:
+- Archivo 'Views.py' cambialo por esta linea de codigo que es la correcta:
 ```sh
 from .serializers import UserSerializer, GroupSerializer
 ```
 
 #Cuidado 2
-- encuentras linea de codigo en la pagina oficial de, https://www.django-rest-framework.org/tutorial/quickstart/
-- una Linea de codigo que esta mal en Archivo 'URLs.py' CUANDO ya este el codigo pegado en tu script aparecera esto:
+- Encuentras linea de codigo en la pagina oficial de, https://www.django-rest-framework.org/tutorial/quickstart/
+- Linea de codigo que esta mal en Archivo 'URLs.py' CUANDO ya este el codigo pegado en tu script aparecera esto:
 ```sh
 from tutorial.quickstart import views
 ```
 
--Ahora en el Archivo 'URLs.py' cambialo porla correcta que es:
+- Ahora en el Archivo 'URLs.py' cambialo  por esta linea de codigo que es la correcta:
 ```sh
 from quickstart import views
 ```
