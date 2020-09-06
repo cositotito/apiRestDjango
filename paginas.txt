@@ -1,0 +1,52 @@
+https://www.tomchristie.com/rest-framework-2-docs/tutorial/quickstart
+
+https://www.django-rest-framework.org/tutorial/quickstart/#project-setup
+https://stackoverflow.com/questions/39890020/python-importerror-no-module-named-tutorial-quickstart/39891590
+https://stackoverflow.com/questions/39890020/python-importerror-no-module-named-tutorial-quickstart
+https://www.thetopsites.net/article/53878920.shtml
+https://www.youtube.com/results?search_query=django+api+rest+Quickstart&sp=CAI%253D
+
+Tutorial para instalar y ejecutar Django Rest Framework
+https://www.youtube.com/watch?v=tODtHMmjrqs
+
+
+Getting Started With Django REST Framework
+https://www.youtube.com/watch?v=263xt_4mBNc
+
+
+
+
+https://stackoverflow.com/questions/54310762/django-rest-framework-module-not-found-error
+
+
+
+
+
+
+
+
+
+
+
+---------------django en git---------------
+Using GitHub With Django and PythonAnywhere
+https://www.youtube.com/watch?v=9FJwue2Eqao
+
+Learn Django - The Easy Way | Upload Django App on Github | Tutorial - 49
+https://www.youtube.com/watch?v=ll0mOXceOXM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
