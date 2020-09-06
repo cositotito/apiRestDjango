@@ -35,7 +35,7 @@ python manage.py createsuperuser --email admin@example.com --username admin
 ```
 
 
-OJO
+#Cuidado #1
 
 -encuentras linea de codigo en la pagina oficial de, https://www.django-rest-framework.org/tutorial/quickstart/
 -una Linea de codigo que esta mal en Archivo 'Views.py' CUANDO ya este el codigo pegado en tu script aparecera esto:
@@ -48,7 +48,7 @@ from tutorial.quickstart.serializers import UserSerializer, GroupSerializer
 from .serializers import UserSerializer, GroupSerializer
 ```
 
-OJO
+#Cuidado #2
 -encuentras linea de codigo en la pagina oficial de, https://www.django-rest-framework.org/tutorial/quickstart/
 una Linea de codigo que esta mal en Archivo 'URLs.py' CUANDO ya este el codigo pegado en tu script aparecera esto:
 ```sh
